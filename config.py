@@ -2,4 +2,4 @@
 
 #Configure your telegram bot id
 
-token_id="4308:37ksutsGyskjslahgGskskskskshahahaha"
+token_id="6672848671:AAHoQBGJWwl9tikCQOH1rJsbwpxPRmc4XRo"
